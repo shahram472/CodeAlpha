@@ -53,10 +53,7 @@ To understand how network monitoring tools help detect unauthorized access or ma
 ## 📂 Repository Structure
 
 ```
-/phishing-awareness-presentation
     phishing_presentation.pptx
-
-/network-intrusion-detection
     network_intrusion_system.docx
 
 README.md
