@@ -76,5 +76,7 @@ README.md
 ## 👤 Author
 
 **Name:** Shahram Shahzad
+
 **Internship:** CodeAlpha
+
 **Date:** March 2026
